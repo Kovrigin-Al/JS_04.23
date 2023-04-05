@@ -1,0 +1,14 @@
+{
+  "name": "js_04.23",
+  "version": "1.0.0",
+  "description": "homework for JS intensive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Aleksei Kovrigin",
+  "license": "ISC"
+}
